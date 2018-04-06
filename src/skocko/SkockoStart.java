@@ -3,7 +3,7 @@
 package skocko;
 
  
-public class PokretanjeIgrice {
+public class SkockoStart {
 
     
     public static void main(String[] args) {
