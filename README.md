@@ -1,2 +1,2 @@
 # Swing-Igra-Skocko
-![alt text](Swing-Igra-Skocko/src/skocko/ikonice/screenshot.png)
+![alt text](https://github.com/balsaBane/Swing-Igra-Skocko/blob/master/src/skocko/ikonice/screenshot.png)
